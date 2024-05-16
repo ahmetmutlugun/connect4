@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-pip instaal -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Agents
@@ -13,5 +13,9 @@ pip instaal -r requirements.txt
 ### ???
 
 ## Contributors
+Benjamin Wang
+Ekansh Gupta
+Ahmet Mutlugun
+
 
 ## License
